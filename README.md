@@ -38,6 +38,15 @@ Of the 86 petition projects:
 
 ![Strike price increases for re-bid projects](figures/ny_rebid_price_increases.png)
 
+## NYSERDA contract status by round
+
+How much of the large-scale renewable capacity NYSERDA has contracted is operating, under construction,
+in development or cancelled, with NYPA's involvement alongside (status as of 9/30/2026). Of 20,688 MW
+contracted, counting each site once, 7% is operating, 14% under construction, 21% in development and 58%
+cancelled. Method, inputs and scripts are in [`nyserda-contract-status/`](nyserda-contract-status).
+
+![NYSERDA contract status by round](nyserda-contract-status/output/ny_tier1_operating_chart.png)
+
 ## What is in this repository
 
 | Path | What it is |
@@ -45,6 +54,7 @@ Of the 86 petition projects:
 | [`workbooks/NY_RES_rebid_crosswalk.xlsx`](workbooks/NY_RES_rebid_crosswalk.xlsx) | The main product: summary, a 117-project roster, award-by-award crosswalks, price-adjustment tracking, abandoned and built lists, and RESRFP25-1 proposals. |
 | [`data/derived/`](data/derived) | The same tables as plain CSV. See the [data dictionary](docs/DATA_DICTIONARY.md). |
 | [`figures/`](figures) | Charts. |
+| [`nyserda-contract-status/`](nyserda-contract-status) | Self-contained chart of contract status by NYSERDA round, with its inputs, scripts and method. |
 | [`docs/METHODS.md`](docs/METHODS.md) | How projects were matched and classified, and how prices were compared. |
 | [`docs/SOURCES.md`](docs/SOURCES.md) | Where each input comes from and which vintages are used. |
 | [`docs/UPDATING.md`](docs/UPDATING.md) | How to fold in new NYISO or NYSERDA data. |

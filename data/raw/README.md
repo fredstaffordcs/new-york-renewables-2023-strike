@@ -1,6 +1,6 @@
 # Raw source data
 
-Source files are not redistributed here; they belong to their publishers. Download them from the
+The main workbook's source files are not redistributed here (the `nyserda-contract-status/` folder does include its own copies of its three inputs); they belong to their publishers. Download them from the
 original sources and keep them **outside** this repository tree (or in this folder, which is git-ignored).
 
 | File | Where to get it |
