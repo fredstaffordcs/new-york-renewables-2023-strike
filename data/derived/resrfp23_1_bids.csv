@@ -1,0 +1,58 @@
+num,bid_awarded_project,in_the_86,outcome,county,tech,new_proposed_developer,new_status,new_proposed_mw,new_strike_mwh,prior_round,prior_project,prior_status,prior_mw,prior_strike_mwh,strike_change,new_award_source,prior_award_source,classification,evidence_notes,inflation_adj,prior_annual_mwh
+1,Alle Catt Wind,Yes,Won,Cattaraugus,Wind,Invenergy,Under Development,340,93.65,RESRFP17-1,Alle-Catt Wind Farm,Cancelled,339.78,65.62,0.4271563548,2023 fact sheet,2017 fact sheet,Re-bid,Same Article 10 case 17-F-0282.,No,977474
+2,Baron Winds 2,Yes,Won,Steuben,Wind,RWE,Operational,117,94.57,RESRFP17-1,Baron Winds II,Cancelled,112.5,69.62,0.3583740305,2023 fact sheet,2017 fact sheet,Re-bid,Distinct from operational Baron Winds I; same Article 10 case 15-F-0122. Confirmed prior award + cancellation in dataset.,No,272706
+3,Bear Ridge Solar LLC,Yes,Won,Niagara,Solar,Cypress Creek Renewables,Under Development,92.98,97.8,RESRFP21-1,Bear Ridge Solar,Cancelled,100,,,2023 fact sheet,2021 fact sheet,Re-bid,Same ORES case 21-02104.,No,181332
+4,Cider Solar Farm,Yes,Won,Genesee,Solar,Greenbacker Renewable Energy Company,Under Development,500,74.87,RESRFP20-1,Cider Solar Farm,Cancelled,500,52.4,0.4288167939,2023 fact sheet,2020 fact sheet,Re-bid,Same ORES case 21-01108; developer Hecate->Greenbacker.,No,928560
+5,Dog Corners Solar,Yes,Won,Cayuga,Solar,Cordelio Power,Under Development,19.99,99,RESRFP18-1,SED Dog Corners Solar,Cancelled,19.99,67.13,0.4747504841,2023 fact sheet,2018 fact sheet,Re-bid,"Renamed SunEast->Cordelio. Same ORES queue 584. 9/30/2026 dataset: strike now $100.50 after the one-time PPI adjustment (+1.5%); developer of record now Altus Power, Inc. The $99.00 award strike is retained here.",Yes,32167
+6,Excelsior Energy Center,Yes,Won,Genesee,Solar,NextEra Energy Resources,Under Development,280,101.47,RESRFP18-1,Excelsior Energy Center - Solar + Storage 2,Cancelled,280,66.3,0.5304675716,2023 fact sheet,2018 fact sheet,Re-bid,Same Article 10 case 19-F-0299.,No,591615
+7,Flat Hill Solar,Yes,Won,Herkimer,Solar,Cordelio Power,Under Development,19.99,99,RESRFP19-1,SunEast Flat Hill Solar,Cancelled,19.99,63.72,0.5536723164,2023 fact sheet,2019 fact sheet,Re-bid,"Renamed SunEast->Cordelio. Same queue 865. 9/30/2026 dataset: strike now $100.61 after the one-time PPI adjustment (+1.6%); developer of record now Altus Power, Inc. The $99.00 award strike is retained here.",Yes,32167
+8,Flat Stone Solar,Yes,Won,Oneida,Solar,Cordelio Power,Under Development,19.99,99,RESRFP20-1,SunEast Flat Stone Solar,Cancelled,19.99,62.5,0.584,2023 fact sheet,2020 fact sheet,Re-bid,Renamed SunEast->Cordelio. Same queue 1000.,Yes,32167
+9,Garnet Energy Center,Yes,Won,Cayuga,Solar,NextEra Energy Resources,Under Development,200,104.96,RESRFP19-1,Garnet Energy Center Storage 1,Cancelled,200,69.21,0.516543852,2023 fact sheet,2019 fact sheet,Re-bid,,No,453768
+10,Grassy Knoll Solar,Yes,Won,Herkimer,Solar,Cordelio Power,Under Development,19.99,99,RESRFP19-1,SunEast Grassy Knoll Solar,Cancelled,19.99,63.58,0.5570934256,2023 fact sheet,2019 fact sheet,Re-bid,Renamed SunEast->Cordelio. Same queue 885.,Yes,32167
+11,Heritage Wind,Yes,Won,Orleans,Wind,Apex Clean Energy,Under Development,126,109.95,RESRFP18-1,Heritage Wind,Cancelled,147,67.01,0.6407998806,2023 fact sheet,2018 fact sheet,Re-bid,Same ORES case 21-00026; MW de-rated 147->126.,No,393100
+12,Highview Solar,Yes,Won,Wyoming,Solar,Cordelio Power,Cancelled,19.99,99,RESRFP19-1,SunEast Highview Solar,Cancelled,20,63.38,0.5620069423,2023 fact sheet,2019 fact sheet,Re-bid,Renamed SunEast->Cordelio. Same queue 591.,Yes,32167
+13,Hills Solar,Yes,Won,Herkimer,Solar,Cordelio Power,Under Development,19.99,99,RESRFP18-1,SED Hills Solar,Cancelled,19.99,66.67,0.4849257537,2023 fact sheet,2018 fact sheet,Re-bid,Renamed SunEast->Cordelio. Same queue 581.,Yes,32167
+14,Little Pond Solar,Yes,Won,Orange,Solar,Greenbacker Renewable Energy Company,Cancelled,19.99,107.38,RESRFP17-1,Little Pond Solar,Cancelled,19.99,81.97,0.3099914603,2023 fact sheet,2017 fact sheet,Re-bid,Re-award (2023) itself later CANCELLED.,No,32167
+15,Rock District Solar,Yes,Won,Schoharie,Solar,Greenbacker Renewable Energy Company,Cancelled,19.99,91.44,RESRFP17-1,Rock District Solar,Cancelled,19.99,76.2,0.2,2023 fact sheet,2017 fact sheet,Re-bid,Re-award (2023) itself later CANCELLED.,No,33884
+16,Scipio Solar,Yes,Won,Cayuga,Solar,Cordelio Power,Under Development,18,99,RESRFP21-1,SunEast Scipio Solar,Cancelled,18,,,2023 fact sheet,2021 fact sheet,Re-bid,"Renamed SunEast->Cordelio. Same queue 590. 9/30/2026 dataset: strike now $100.50 after the one-time PPI adjustment (+1.5%); developer of record now Altus Power, Inc. The $99.00 award strike is retained here.",Yes,32167
+17,Tayandenega Solar,Yes,Won,Montgomery,Solar,Greenbacker Renewable Energy Company,Cancelled,15,93.67,RESRFP17-1,Tayandenega Solar,Cancelled,19.99,72.61,0.2900426938,2023 fact sheet,2017 fact sheet,Re-bid,Re-award (2023) itself later CANCELLED.,No,32167
+18,Trelina Solar Energy Center,Yes,Won,Seneca,Solar,NextEra Energy Resources,Under Development,79.8,104.98,RESRFP18-1,Trelina Solar Energy Center,Cancelled,80,67.52,0.5547985782,2023 fact sheet,2018 fact sheet,Re-bid,Same Article 10 case 19-F-0366.,No,156629
+19,Valley Solar,Yes,Won,Tioga,Solar,Cordelio Power,Under Development,19.99,99,RESRFP19-1,SunEast Valley Solar,Cancelled,19.99,63.07,0.5696844776,2023 fact sheet,2019 fact sheet,Re-bid,"Renamed SunEast->Cordelio. Same queue 828. 9/30/2026 dataset: strike now $100.78 after the one-time PPI adjustment (+1.8%); developer of record now Altus Power, Inc. The $99.00 award strike is retained here.",Yes,32167
+20,Watkins Road Solar,Yes,Won,Herkimer,Solar,Cordelio Power,Under Development,19.99,99,RESRFP18-1,SED Watkins Road Solar 1,Cancelled,19.99,66.87,0.4804845222,2023 fact sheet,2018 fact sheet,Re-bid,Renamed SunEast->Cordelio. Same queue 586.,Yes,32167
+21,Brookside Solar,No,Won,Franklin,Solar,AES Corporation,Under Development,100,98.42,—,—,—,,,,2023 fact sheet,—,New,No prior NYSERDA RES award in dataset.,No,—
+22,Canisteo Wind Energy Center,No,Won,Steuben,Wind,Invenergy,Under Development,252,99.99,RESRFP18-1,Canisteo Wind & Storage,Cancelled,290,,,2023 fact sheet,2018 fact sheet,Re-bid,Same Article 10 case 16-F-0205; MW de-rated 290->252.,No,894221
+23,ELP Grandby Solar 2,No,Won,Oswego,Solar,VC Renewables,Under Development,19.99,97,—,—,—,,,,2023 fact sheet,—,New,No prior NYSERDA RES award in dataset.,No,—
+24,Alfred Oaks Solar,Yes,Lost,"County): Town of Alfred, Allegany County",Solar,,Not awarded,100,,RESRFP21-1,Alfred Oaks Solar,Cancelled,100,,,,,Re-bid (lost),,,183960
+25,Bald Mountain Solar,Yes,Lost,County):,,,Not awarded,,,RESRFP19-1,Bald Mountain Solar,Cancelled,19.99,65.1,,,,Re-bid (lost),,,33446
+26,Dolan Solar,Yes,Lost,"County): Fort Edward, Washington County",Solar,,Not awarded,19.99,,RESRFP20-1,Dolan Solar,Cancelled,19.99,59.85,,,,Re-bid (lost),,,40276
+27,Easton Solar,Yes,Lost,"Town of Easton, Washington County, NY",Solar,,Not awarded,19.99,,RESRFP21-1,Easton Solar Farm,Cancelled,20,,,,,Re-bid (lost),,,38369
+28,Foothills Solar Farm,Yes,Lost,County):,(Megawatts):,,Not awarded,,,RESRFP21-1,Foothills Solar Farm,Cancelled,40,,,,,Re-bid (lost),,,75336
+29,Greens Corners Solar Park,Yes,Lost,County):,(Megawatts):,,Not awarded,,,RESRFP19-1,Greens Corners Solar,Cancelled,120,64.21,,,,Re-bid (lost),,,194472
+30,Hawthorn Solar,Yes,Lost,"County): Hoosick, Rensselaer County",Solar,,Not awarded,19.99,,RESRFP20-1,Hawthorn Solar,Cancelled,19.99,60.45,,,,Re-bid (lost),,,39400
+31,High Bridge Wind,Yes,Lost,"County): Guilford, NY",Land Based Wind,,Not awarded,100.8,,RESRFP18-1,High Bridge Wind and Battery,Cancelled,99,67.27,,,,Re-bid (lost),,,308737
+32,Homer Solar Energy Center,Yes,Lost,County):,(Megawatts):,,Not awarded,,,RESRFP20-1,Homer Solar Energy Center,Cancelled,90,59.96,,,,Re-bid (lost),,,168718
+33,Horseshoe Solar Energy Center,Yes,Lost,Caledonia/Rush; Livingston and Monroe Co,Solar,,Not awarded,180,,RESRFP18-1,Horseshoe Solar,Cancelled,180,70.57,,,,Re-bid (lost),,,368971
+34,Kingbird Solar,Yes,Lost,County):,Solar,,Not awarded,,,RESRFP20-1,SunEast Kingbird Solar,Cancelled,19.99,59.35,,,,Re-bid (lost),,,38875
+35,Limestone Solar,Yes,Lost,County):,Solar,,Not awarded,,,RESRFP19-1,SunEast Limestone Solar,Cancelled,19.99,63.72,,,,Re-bid (lost),,,36073
+36,Manchester Solar,Yes,Lost,County):,Solar,,Not awarded,,,RESRFP18-1,Manchester Solar,Cancelled,19.99,67.41,,,,Re-bid (lost),,,40223
+37,Mohawk Solar,Yes,Lost,"County): Canajoharie & Minden, Montgomer",Solar,,Not awarded,90.5,,RESRFP18-1,Mohawk Solar,Cancelled,90.5,65.39,,,,Re-bid (lost),,,200321
+38,Moraine Solar Energy Center,Yes,Lost,County):,(Megawatts):,,Not awarded,,,RESRFP20-1,Moraine Solar Energy Center,Cancelled,93.55,58.83,,,,Re-bid (lost),,,183568
+39,Prattsburgh Wind Farm,Yes,Lost,"Avoca, Cohocton, Howard, Prattsburgh, Wh",wind,,Not awarded,147,,RESRFP19-1,Prattsburgh Wind Farm,Cancelled,145,71.59,,,,Re-bid (lost),,,449651
+40,Rich Road Solar Energy Center,Yes,Lost,County):,(Megawatts):,,Not awarded,,,RESRFP21-1,Rich Road Solar Energy Center,Cancelled,240,,,,,Re-bid (lost),,,456221
+41,Roosevelt Solar,Yes,Lost,,,,Not awarded,,,RESRFP21-1,Roosevelt Solar,Cancelled,19.9,,,,,Re-bid (lost),,,39397
+42,ELP Rotterdam Solar,Yes,Lost,County):,Solar PV,,Not awarded,20,,RESRFP21-1,ELP Rotterdam Solar,Cancelled,19.99,,,,,Re-bid (lost),,,41327
+43,York Run Solar,Yes,Lost,"County): Kiantone and Busti, Chautauqua",Solar,,Not awarded,90,,RESRFP21-1,York Run Solar,Cancelled,90,,,,,Re-bid (lost),,,174520
+44,Shepherds Run Solar,Yes,Lost,"County): Copake, Columbia County",Solar PV,,Not awarded,42,,RESRFP17-1,Shepherd's Run Solar,Cancelled,60,70.01,,,,Re-bid (lost),,,111164
+45,Sky High Solar,Yes,Lost,County):,,,Not awarded,,,RESRFP17-1,Sky High Solar,Cancelled,19.99,74.06,,,,Re-bid (lost),,,36248
+46,Skyline Solar,Yes,Lost,County):,Solar,,Not awarded,,,RESRFP18-1,SED Skyline Solar,Cancelled,19.99,68.64,,,,Re-bid (lost),,,35022
+47,Somers Solar,Yes,Lost,"County): Fort Edward, Washington County",Solar,,Not awarded,19.99,,RESRFP20-1,Somers Solar,Cancelled,19.99,61.45,,,,Re-bid (lost),,,37649
+48,South Ripley Solar,Yes,Lost,"County): Town of Ripley, Chautauqua Coun",Solar PV,,Not awarded,270,,RESRFP19-1,South Ripley Solar and Storage,Cancelled,270,66.95,,,,Re-bid (lost),,,404449
+49,Tracy Solar Energy Center,Yes,Lost,County):,(Megawatts):,,Not awarded,,,RESRFP20-1,Tracy Solar Energy Center,Cancelled,119,60.69,,,,Re-bid (lost),,,236634
+50,Watkins Glen Solar Energy Center,Yes,Lost,"County): Town of Dix, Schuyler County",Solar,,Not awarded,50,,RESRFP18-1,Watkins Glen Solar Energy Center,Cancelled,50,67.2,,,,Re-bid (lost),,,106784
+51,Yellow Barn Solar,Yes,Lost,"County): Lansing and Groton, Tompkins Co",Solar,,Not awarded,160,,RESRFP21-1,Yellow Barn Solar,Cancelled,160,,,,,Re-bid (lost),,,299886
+52,Azurent Solar New York,No,Lost,,,,Not awarded,,,,,,,,,,,Bid — outside the 86,,,
+53,Cody Road Wind Farm,No,Lost,"County): Fennen, NY in Madison County",Wind,,Not awarded,12.8,,,,,,,,,,Bid — outside the 86,,,
+54,Deer River Wind,No,Lost,"County): Harrisburg and Pinckney, Lewis",Wind,,Not awarded,101.6,,,,,,,,,,Bid — outside the 86,,,
+55,Highbanks Solar Project,No,Lost,"County): Town of Leicester, Livingston C",Solar,,Not awarded,18,,,,,,,,,,Bid — outside the 86,,,
+56,Riverhead Solar 2,No,Lost,"County): Town of Riverhead, Suffolk Coun",PV,,Not awarded,36,,,,,,,,,,Bid — outside the 86,,,
+57,Teele Solar,No,Lost,"County): Town of Lisbon, St. Lawrence Co",PV,,Not awarded,19.8,,,,,,,,,,Bid — outside the 86,,,

@@ -1,0 +1,118 @@
+roster_num,project_name,in_petition_86,mw,fate,nypa_roster_status,nypa_project_code,nypa_match_confidence,nypa_match_evidence
+1,Alle-Catt Wind Farm,Yes,339.78,Re-bid into RESRFP23-1 (2023),Formerly in NYPA plan (dropped),E1,Possible,"Oct-2024 NYPA draft only: E1, Forward Power (Invenergy JV), 339 MW, Zone A. Fits Alle-Catt's size and zone, but the draft labelled E1 solar and gave no town; dropped before the Jan-2025 plan. Unverified."
+2,Cider Solar Farm,Yes,500,Re-bid into RESRFP23-1 (2023),No match identified,,,
+3,Excelsior Energy Center - Solar + Storage 2,Yes,280,Re-bid into RESRFP23-1 (2023),No match identified,,,
+4,Garnet Energy Center Storage 1,Yes,200,Re-bid into RESRFP23-1 (2023),On NYPA dashboard,F3,Strong inferred,"Dashboard F3: NextEra, 200 MW, Town of Conquest (Cayuga) — Garnet's MW, developer and Article 10 site (case 20-F-0043). REPORTING (checked 10/8/2026): No reporting found that names this project in connection with NYPA. NY Energy Alliance's independent code mapping (9/29/2026) makes the same match."
+5,Heritage Wind,Yes,147,Re-bid into RESRFP23-1 (2023),No match identified,,,
+6,Baron Winds II,Yes,112.5,Re-bid into RESRFP23-1 (2023),No match identified,,,
+7,Bear Ridge Solar,Yes,100,Re-bid into RESRFP23-1 (2023),No match identified,,,
+8,Trelina Solar Energy Center,Yes,80,Re-bid into RESRFP23-1 (2023),On NYPA dashboard,F4,Strong inferred,"Dashboard F4: NextEra, 79.8 MW, Waterloo (Seneca) — Trelina's exact MW and town (Article 10 case 19-F-0366). REPORTING (checked 10/8/2026): No reporting found that names this project in connection with NYPA. NY Energy Alliance's independent code mapping (9/29/2026) makes the same match."
+9,SunEast Flat Stone Solar,Yes,19.99,Re-bid into RESRFP23-1 (2023),No match identified,,,
+10,SED Dog Corners Solar,Yes,19.99,Re-bid into RESRFP23-1 (2023),No match identified,,,
+11,SED Hills Solar,Yes,19.99,Re-bid into RESRFP23-1 (2023),No match identified,,,
+12,SED Watkins Road Solar 1,Yes,19.99,Re-bid into RESRFP23-1 (2023),No match identified,,,
+13,Little Pond Solar,Yes,19.99,Re-bid into RESRFP23-1 (2023),No match identified,,,
+14,SunEast Valley Solar,Yes,19.99,Re-bid into RESRFP23-1 (2023),No match identified,,,
+15,Tayandenega Solar,Yes,19.99,Re-bid into RESRFP23-1 (2023),No match identified,,,
+16,SunEast Grassy Knoll Solar,Yes,19.99,Re-bid into RESRFP23-1 (2023),No match identified,,,
+17,SunEast Flat Hill Solar,Yes,19.99,Re-bid into RESRFP23-1 (2023),No match identified,,,
+18,Rock District Solar,Yes,19.99,Re-bid into RESRFP23-1 (2023),No match identified,,,
+19,SunEast Scipio Solar,Yes,18,Re-bid into RESRFP23-1 (2023),No match identified,,,
+20,SunEast Highview Solar,Yes,20,Re-bid into RESRFP23-1 (2023),No match identified,,,
+21,Mill Point Solar,Yes,250,Re-bid into RESRFP24-1 (2024),On NYPA dashboard,C1,Plan-flagged,"Dashboard C1: Repsol, 250 MW, Glen (Montgomery). NYPA's Dec-2025 plan says C1 won a NYSERDA Tier 1 award in May 2025 (RESRFP24-1); Mill Point is the only such award in Glen. Its 24-1 contract is 223 MW vs NYPA's 250 MW (queue still 250). REPORTING (checked 10/8/2026): No reporting found that names this project in connection with NYPA. NY Energy Alliance's independent code mapping (9/29/2026) makes the same match."
+22,Fort Covington Solar Farm,Yes,250,Re-bid into RESRFP24-1 (2024),On NYPA dashboard,B4,Plan-flagged,"Dashboard B4: Boralex, 250 MW, Fort Covington (Franklin). NYPA's plan cites the May-2025 Tier 1 award; exact MW, town and developer. REPORTING (checked 10/8/2026): No reporting found that names this project in connection with NYPA. NY Energy Alliance's independent code mapping (9/29/2026) makes the same match. DASHBOARD 9/30/2026 (read 10/14/2026): interconnection agreement In Progress -> Complete; est. completion Q4 2027 -> Q2 2029."
+23,Prattsburgh Wind Farm,Yes,145,Re-bid into RESRFP24-1 (2024),No match identified,,,
+24,SunEast Flat Creek Solar,Yes,200,Re-bid into RESRFP24-1 (2024),No match identified,,,
+25,South Ripley Solar and Storage,Yes,270,Re-bid into RESRFP24-1 (2024),On NYPA dashboard,C2,Plan-flagged,"Dashboard C2: Repsol, 270 MW, South Ripley (Chautauqua); NYPA's plan cites the May-2025 award. Caveat: the RESRFP24-1 contract is Cancelled in NYSERDA's 6/11 and 9/30/2026 data, yet the dashboard still lists C2 and queue 783 is active. Ask NYPA whether C2 survives. REPORTING (checked 10/8/2026): Post-Journal (11/29/2025): project delayed by high costs, developer 'fully committed'; a 12/20/2025 local commentary reports ConnectGen told landowners it is not economically viable in its current state. No reporting ties it to NYPA by name."
+26,Horseshoe Solar,Yes,180,Re-bid into RESRFP24-1 (2024),On NYPA dashboard,E3,Plan-flagged,"Dashboard E3: Invenergy, 180 MW, Caledonia (Livingston). NYPA's plan cites the May-2025 award; exact town and MW. REPORTING (checked 10/8/2026): No reporting found that names this project in connection with NYPA. NY Energy Alliance's independent code mapping (9/29/2026) makes the same match."
+27,High Bridge Wind and Battery,Yes,99,Re-bid into RESRFP24-1 (2024),No match identified,,,
+28,Yellow Barn Solar,Yes,160,Re-bid into RESRFP24-1 (2024),No match identified,,,
+29,Tracy Solar Energy Center,Yes,119,Re-bid into RESRFP24-1 (2024),No match identified,,,
+30,Moraine Solar Energy Center,Yes,93.55,Re-bid into RESRFP24-1 (2024),No match identified,,,
+31,York Run Solar,Yes,90,Re-bid into RESRFP24-1 (2024),No match identified,,,
+32,Homer Solar Energy Center,Yes,90,Re-bid into RESRFP24-1 (2024),No match identified,,,
+33,Shepherd's Run Solar,Yes,60,Re-bid into RESRFP24-1 (2024),Formerly in NYPA plan (dropped),O1,Plan-flagged,"Dec-2025 NYPA plan O1: Hecate, 42 MW, Copake (Columbia), citing the May-2025 Tier 1 award (the RESRFP24-1 contract is exactly 42 MW). O1 is missing from the dashboard (9/24 or 9/30/2026 versions); dropped or omitted is unknown. REPORTING (checked 10/8/2026): CBS6 Albany (1/30/2026) reported that NYPA emailed State Sen. Michelle Hinchey it ""will not be participating"" in Shepherd's Run (email cited by opponents Sensible Solar; Hecate disputed the withdrawal). Together with O1's absence from the dashboard, treated as dropped. The project itself is still seeking an ORES permit."
+34,Dolan Solar,Yes,19.99,Re-bid into RESRFP24-1 (2024),Formerly in NYPA plan (dropped),D1 or D2?,Possible (1 of 3 candidates for D1/D2),"Oct-2024 NYPA draft only: D1 and D2 were CS Energy ~20 MW Zone F build-transfer projects (no towns given), dropped before the Jan-2025 plan. Candidates: Dolan (#34), Hawthorn (#35), Stern (#67). Unverified."
+35,Hawthorn Solar,Yes,19.99,Re-bid into RESRFP24-1 (2024),Formerly in NYPA plan (dropped),D1 or D2?,Possible (1 of 3 candidates for D1/D2),"Oct-2024 NYPA draft only: D1 and D2 were CS Energy ~20 MW Zone F build-transfer projects (no towns given), dropped before the Jan-2025 plan. Candidates: Dolan (#34), Hawthorn (#35), Stern (#67). Unverified."
+36,Somers Solar,Yes,19.99,Re-bid into RESRFP24-1 (2024),On NYPA dashboard,D3,Confirmed,"NYPA named Somers Solar (20 MW, Washington County) as acquired by its NYRED subsidiary (3/25/2025 release) and again in its 9/28/2026 Rich Road release. NYSERDA's RESRFP24-1 record lists the developer as NYPA. DASHBOARD 9/30/2026 (read 10/14/2026): est. completion Q2 2027 -> Q4 2027; listed In Construction, all permits received."
+37,ELP Ticonderoga Solar,Yes,19.99,Re-bid into RESRFP24-1 (2024),No match identified,,,
+38,SED Skyline Solar,Yes,19.99,Re-bid into RESRFP24-1 (2024),No match identified,,,
+39,Rich Road Solar Energy Center,Yes,240,Re-bid into RESRFP25-1 (2025) and won,On NYPA dashboard,N1,Confirmed,"NYPA announced 9/28/2026 that NYRED takes a 51% stake in the 240 MW Rich Road Solar project (Canton, St. Lawrence); EDF stays minority owner and builds it. Coverage says it holds a 20-year Tier 1 contract from the 2025 solicitation (RESRFP25-1). Construction late 2027, operation 2029. DASHBOARD 9/30/2026 (read 10/14/2026): est. completion Q4 2028 -> Q2 2029 (consistent with NYPA's 9/28/2026 release: operation 2029)."
+40,Mohawk Solar,Yes,90.5,"Re-bid into RESRFP25-1 (2025), not awarded",On NYPA dashboard,M1,Strong inferred,"Dashboard M1: Avangrid, 90.5 MW, Canajoharie/Minden (Montgomery) — exact MW, towns and developer. Bid RESRFP25-1 and lost, so no current NYSERDA contract. REPORTING (checked 10/8/2026): No reporting found that names this project in connection with NYPA. NY Energy Alliance's independent code mapping (9/29/2026) makes the same match."
+41,Greens Corners Solar,Yes,120,Re-bid into RESRFP25-1 (2025) and won,In Dec-2025 NYPA plan only (not on dashboard),B1 (with #44),Strong inferred,"Dec-2025 NYPA plan B1: Boralex, 140 MW, Watertown/Hounsfield (Jefferson) = Greens Corners 120 MW + Sandy Creek 20 MW (queue 864 + 843, Coffeen–West Adams POI). Both won RESRFP25-1. B1 is not on the dashboard (9/24 or 9/30/2026 versions). REPORTING (checked 10/8/2026): AES's project page now presents Greens Corners Solar (140 MW, Hounsfield/Watertown; construction 2027, COD 2028) as an AES project, and a 2026 PSC petition was reported transferring Greens Corners Solar LLC from Boralex to an AES affiliate. That ownership change is a plausible reason B1 (partner Boralex) left the dashboard; NYPA's own AES entries (L1, L2) are elsewhere. Unconfirmed."
+42,Flint Mine Solar,Yes,100,Re-bid into RESRFP25-1 (2025) and won,No match identified,,,
+43,Watkins Glen Solar Energy Center,Yes,50,"Re-bid into RESRFP25-1 (2025), not awarded",On NYPA dashboard,F1,Strong inferred,"Dashboard F1: NextEra, 50 MW, Watkins Glen (Schuyler) — exact. Bid RESRFP25-1 and lost; no current NYSERDA contract. REPORTING (checked 10/8/2026): No reporting found that names this project in connection with NYPA. NY Energy Alliance's independent code mapping (9/29/2026) makes the same match."
+44,Sandy Creek Solar,Yes,19.99,Re-bid into RESRFP25-1 (2025) and won,In Dec-2025 NYPA plan only (not on dashboard),B1 (with #41),Strong inferred,"Dec-2025 NYPA plan B1: Boralex, 140 MW, Watertown/Hounsfield (Jefferson) = Greens Corners 120 MW + Sandy Creek 20 MW (queue 864 + 843, Coffeen–West Adams POI). Both won RESRFP25-1. B1 is not on the dashboard (9/24 or 9/30/2026 versions). REPORTING (checked 10/8/2026): AES's project page now presents Greens Corners Solar (140 MW, Hounsfield/Watertown; construction 2027, COD 2028) as an AES project, and a 2026 PSC petition was reported transferring Greens Corners Solar LLC from Boralex to an AES affiliate. That ownership change is a plausible reason B1 (partner Boralex) left the dashboard; NYPA's own AES entries (L1, L2) are elsewhere. Unconfirmed."
+45,Greene County 1,Yes,20,Re-bid into RESRFP25-1 (2025) and won,On NYPA dashboard,Q1,Strong inferred,"Dashboard Q1: Greenbacker, 20 MW, Coxsackie (Greene) — exact MW, town and developer (queue 572). Won RESRFP25-1. REPORTING (checked 10/8/2026): No reporting found that names this project in connection with NYPA. NY Energy Alliance's independent code mapping (9/29/2026) makes the same match."
+46,Greene County 2,Yes,10,Re-bid into RESRFP25-1 (2025) and won,On NYPA dashboard,Q2,Strong inferred,"Dashboard Q2: Greenbacker, 10 MW, Coxsackie (Greene) — exact (queue 573). Won RESRFP25-1. REPORTING (checked 10/8/2026): No reporting found that names this project in connection with NYPA. NY Energy Alliance's independent code mapping (9/29/2026) makes the same match."
+47,Morris Ridge Solar,Yes,177,Built on original contract,No match identified,,,
+48,High River Energy Center,Yes,90,Built on original contract,No match identified,,,
+49,East Point Energy Center,Yes,50,Built on original contract,No match identified,,,
+50,Pattersonville,Yes,19.99,Built on original contract,No match identified,,,
+51,Coeymans Solar,Yes,20,Built on original contract,No match identified,,,
+52,ELP Stillwater Solar,Yes,19.99,Built on original contract,No match identified,,,
+53,Ridge View Solar Energy Center,Yes,350,"Abandoned (cancelled, never re-bid)",In Dec-2025 NYPA plan only (not on dashboard),N2,Strong inferred,"Dec-2025 NYPA plan N2: EDF, 350 MW, Hartland (Niagara) — exact MW, town and developer. NYSERDA contract cancelled and queue position withdrawn; N2 is missing from the dashboard. REPORTING (checked 10/8/2026): Lockport Journal (12/9/2025) reported Ridge View was retained in NYPA's final Dec-2025 plan, co-developed with EDF; EDF did not expect to file with ORES until 2027; the Town of Hartland opposes it (Niagara Gazette/CNHI, 8/20/2025). Why N2 is now off the dashboard is unknown."
+54,Columbia Solar Energy Center,Yes,350,"Abandoned (cancelled, never re-bid)",No match identified,,,
+55,Harvest Hills Solar (Formerly Milliken Solar),Yes,200,"Abandoned (cancelled, never re-bid)",No match identified,,,
+56,North Side Energy Center,Yes,180,"Abandoned (cancelled, never re-bid)",On NYPA dashboard,F2,Strong inferred,"Dashboard F2: NextEra, 180 MW, Massena (St. Lawrence) — exact. Queue position 620 now carries the name 'Gateway Solar Energy Center'. NYSERDA contract cancelled and never re-bid, so NYPA's project would proceed without a Tier 1 contract. REPORTING (checked 10/8/2026): The Siting Board denied North Side on 8/9/2022 (wetlands, endangered species). NextEra re-proposed a redesigned 180 MW project in the same towns (Massena, Brasher, Norfolk) as 'Gateway Solar Energy Center' — the name now on queue 620. So F2 is most likely Gateway, the successor to North Side; it has no NYSERDA contract."
+57,Newport Solar Farm,Yes,130,"Abandoned (cancelled, never re-bid)",No match identified,,,
+58,Rutland Center Solar 1,Yes,110.2,"Abandoned (cancelled, never re-bid)",In Dec-2025 NYPA plan only (not on dashboard),R3,Probable,"Dec-2025 NYPA plan R3: New Leaf Energy, 100 MW, Rutland (Jefferson), 'withdrawn from 2024 Cluster Study' (= C24-118 'Rutland Center Solar', 75 MW). But NYSERDA's developer is Cypress Creek and the award is 110.2 MW. Missing from the dashboard. REPORTING (checked 10/8/2026): NNY360 reports New Leaf Energy developing a ~125 MW solar farm across the Rutland/Watertown line, originally a Borrego project (Borrego won Rutland Center Solar 1 in RESRFP20-1), which supports the New Leaf link despite NYSERDA listing Cypress Creek. An advocacy mapping (NY Energy Alliance, 9/29/2026) instead labels R3 'Honey Ridge Solar (probable)'; I found no record of a project by that name."
+59,Harvest Hills Solar 2,Yes,100,"Abandoned (cancelled, never re-bid)",No match identified,,,
+60,Mill Point Solar 2,Yes,100,"Abandoned (cancelled, never re-bid)",No match identified,,,
+61,SunEast Flat Creek Solar II,Yes,100,"Abandoned (cancelled, never re-bid)",No match identified,,,
+62,Fort Edward Solar Farm,Yes,100,"Abandoned (cancelled, never re-bid)",On NYPA dashboard,B6,Strong inferred,"Dashboard B6 (listed twice on 9/24/2026): Boralex, 100 MW, Fort Edward (Washington) — exact. Serial queue position 1042 is withdrawn (hence column AE), but Fort Edward holds active cluster request C24-111 and filed C26-0026 on 8/17/2026. NYSERDA contract cancelled, never re-bid. REPORTING (checked 10/8/2026): ORES issued the Fort Edward siting permit to Boralex on 5/26/2026 (DPS release). No reporting names NYPA. DASHBOARD 9/30/2026 (read 10/14/2026): B6 now listed once (the duplicate Q4 2028 entry is gone; total features 42 -> 41); est. completion Q3 2030, interconnection still In Progress."
+63,Alfred Oaks Solar,Yes,100,"Abandoned (cancelled, never re-bid)",No match identified,,,
+64,SunEast Tabletop Solar,Yes,80,"Abandoned (cancelled, never re-bid)",No match identified,,,
+65,Moss Ridge Solar,Yes,60,"Abandoned (cancelled, never re-bid)",Formerly in NYPA plan (dropped),R2,Strong inferred,"Jul-2025 NYPA draft R2: New Leaf Energy, 60 MW, Richville (St. Lawrence) — exact. NYPA no longer pursuing (Dec-2025)."
+66,Foothills Solar Farm,Yes,40,"Abandoned (cancelled, never re-bid)",No match identified,,,
+67,Stern Solar,Yes,19.99,"Abandoned (cancelled, never re-bid)",Formerly in NYPA plan (dropped),D1 or D2?,Possible (1 of 3 candidates for D1/D2),"Oct-2024 NYPA draft only: D1 and D2 were CS Energy ~20 MW Zone F build-transfer projects (no towns given), dropped before the Jan-2025 plan. Candidates: Dolan (#34), Hawthorn (#35), Stern (#67). Unverified."
+68,SunEast Transit Solar,Yes,19.99,"Abandoned (cancelled, never re-bid)",No match identified,,,
+69,ELP Rotterdam Solar,Yes,19.99,"Abandoned (cancelled, never re-bid)",No match identified,,,
+70,Scotch Ridge Solar,Yes,20,"Abandoned (cancelled, never re-bid)",No match identified,,,
+71,Manchester Solar,Yes,19.99,"Abandoned (cancelled, never re-bid)",No match identified,,,
+72,Roosevelt Solar,Yes,19.9,"Abandoned (cancelled, never re-bid)",No match identified,,,
+73,SunEast Augustus Solar,Yes,19.99,"Abandoned (cancelled, never re-bid)",No match identified,,,
+74,SunEast Kingbird Solar,Yes,19.99,"Abandoned (cancelled, never re-bid)",No match identified,,,
+75,Easton Solar Farm,Yes,20,"Abandoned (cancelled, never re-bid)",Formerly in NYPA plan (dropped),B3? (or #82),Possible (1 of 2 candidates for B3),"Jan/Jul-2025 NYPA plan B3: Boralex, ~20 MW, Greenwich area (Washington); dropped by Dec-2025. Bald Mountain (#82) and Easton (#75) share ZIP 12834; Bald Mountain, a hamlet of Greenwich, is the likelier match."
+76,Silver Lake Solar,Yes,24.99,"Abandoned (cancelled, never re-bid)",No match identified,,,
+77,SunEast Hilltop Solar,Yes,19.99,"Abandoned (cancelled, never re-bid)",No match identified,,,
+78,Sky High Solar,Yes,19.99,"Abandoned (cancelled, never re-bid)",Formerly in NYPA plan (dropped),B2,Strong inferred,"Jan/Jul-2025 NYPA plan B2: Boralex, 20 MW, Tully (Onondaga) — exact. NYPA no longer pursuing (Dec-2025)."
+79,SunEast Fairway Solar,Yes,19.99,"Abandoned (cancelled, never re-bid)",No match identified,,,
+80,SunEast Limestone Solar,Yes,19.99,"Abandoned (cancelled, never re-bid)",No match identified,,,
+81,ELP Stuyvesant Solar,Yes,19.99,"Abandoned (cancelled, never re-bid)",No match identified,,,
+82,Bald Mountain Solar,Yes,19.99,"Abandoned (cancelled, never re-bid)",Formerly in NYPA plan (dropped),B3? (or #75),Probable (1 of 2 candidates for B3),"Jan/Jul-2025 NYPA plan B3: Boralex, ~20 MW, Greenwich area (Washington); dropped by Dec-2025. Bald Mountain (#82) and Easton (#75) share ZIP 12834; Bald Mountain, a hamlet of Greenwich, is the likelier match."
+83,West River Solar,Yes,19.99,"Abandoned (cancelled, never re-bid)",No match identified,,,
+84,Martin Rd Solar,Yes,19.99,"Abandoned (cancelled, never re-bid)",No match identified,,,
+85,Bakerstand Solar 1,Yes,19.99,"Abandoned (cancelled, never re-bid)",No match identified,,,
+86,Greene County Energy Properties,Yes,19.9,"Abandoned (cancelled, never re-bid)",No match identified,,,
+87,Canisteo Wind & Storage,No,290,"Outside the 86 — cancelled (not ""under development"")",On NYPA dashboard,E9,Strong inferred,"Dashboard E9 (9/24/2026): Invenergy, 252 MW, Cameron/Canisteo/Jasper/Greenwood/Troupsburg/West Union (Steuben) = the Canisteo Wind footprint; 252 MW = its RESRFP23-1 contract. Also won an incremental RESRFP25-1 award. REPORTING (checked 10/8/2026): NYPA's board approved a 20-year PPA for Canisteo Wind in 2019 (its first large renewable deal), later superseded by NYSERDA contracts. The Siting Board restored the permitted capacity to 290.7 MW in June 2026 (from a 250 MW cap), so NYPA's 252 MW figure may be stale. DASHBOARD 9/30/2026 (read 10/14/2026): MW 252 -> 290, now matching the roster's 290 MW and the restored 290.7 MW permit rather than the 252 MW RESRFP23-1 contract. Corroborates the match; tier unchanged (NYPA has not named the project)."
+88,Baron Winds,No,272,"Outside the 86 — cancelled (not ""under development"")",No match identified,,,
+89,Bluestone Wind,No,111.8,Outside the 86 — operational (pre-petition),No match identified,,,
+90,Orleans Solar,No,200,"Outside the 86 — cancelled (not ""under development"")",No match identified,,,
+91,Baron Winds I,No,121.8,Outside the 86 — operational (pre-petition),No match identified,,,
+92,Eight Point Wind,No,111.2,Outside the 86 — operational (pre-petition),No match identified,,,
+93,Number Three Wind Farm,No,103.9,Outside the 86 — operational (pre-petition),No match identified,,,
+94,Alabama Solar Park,No,130,"Outside the 86 — cancelled (not ""under development"")",No match identified,,,
+95,Roaring Brook Wind,No,79.73,Outside the 86 — operational (pre-petition),No match identified,,,
+96,Cohocton Wind Project,No,37.09,Outside the 86 — operational (pre-petition),No match identified,,,
+97,Hecate Energy Greene County 1,No,49.99,"Outside the 86 — cancelled (not ""under development"")",No match identified,,,
+98,Highbanks Solar,No,19.99,"Outside the 86 — cancelled (not ""under development"")",No match identified,,,
+99,Clear View Solar,No,20,"Outside the 86 — cancelled (not ""under development"")",No match identified,,,
+100,Hatchery Solar,No,19.99,"Outside the 86 — cancelled (not ""under development"")",No match identified,,,
+101,Branscomb Solar,No,20,Outside the 86 — operational (pre-petition),No match identified,,,
+102,Darby Solar,No,19.99,Outside the 86 — operational (pre-petition),No match identified,,,
+103,Janis Solar,No,19.99,Outside the 86 — operational (pre-petition),No match identified,,,
+104,Regan Solar,No,19.99,Outside the 86 — operational (pre-petition),No match identified,,,
+105,Magruder Solar,No,19.99,"Outside the 86 — cancelled (not ""under development"")",No match identified,,,
+106,SunEast Clay Solar,No,19.99,"Outside the 86 — cancelled (not ""under development"")",No match identified,,,
+107,Grissom Solar,No,20,Outside the 86 — operational (pre-petition),No match identified,,,
+108,Puckett Solar,No,20,Outside the 86 — operational (pre-petition),No match identified,,,
+109,Sunny Knoll Solar,No,19.99,"Outside the 86 — cancelled (not ""under development"")",No match identified,,,
+110,Rising Solar,No,20,"Outside the 86 — cancelled (not ""under development"")",No match identified,,,
+111,Double Lock Solar,No,19.99,"Outside the 86 — cancelled (not ""under development"")",No match identified,,,
+112,Great Gully Solar Farm (formerly Delight Farm),No,16.8,"Outside the 86 — cancelled (not ""under development"")",No match identified,,,
+113,Blue Stone Solar,No,19.99,"Outside the 86 — cancelled (not ""under development"")",No match identified,,,
+114,Steel Winds Wind Farm,No,5.84,Outside the 86 — operational (pre-petition),No match identified,,,
+115,Hannacroix Solar Facility,No,4.99,"Outside the 86 — cancelled (not ""under development"")",On NYPA dashboard,J1,Confirmed,"NYPA's 3/31/2026 release names Hannacroix Solar (5 MW, New Baltimore, Teichos Energy). Its 2018 NYSERDA contract is Cancelled; NYPA proceeds without it. DASHBOARD 9/30/2026 (read 10/14/2026): est. completion Q1 2027 -> Q3 2027."
+116,Steel Winds Wind Farm 2,No,4.4,Outside the 86 — operational (pre-petition),No match identified,,,
+117,Java Solar Energy Center,No,1.53,"Outside the 86 — cancelled (not ""under development"")",No match identified,,,

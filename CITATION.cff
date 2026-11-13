@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this data or analysis, please cite it as below."
+title: "What happened to New York's capital-strike renewable projects? A crosswalk of the 86 projects in ACE NY's June 2023 petition"
+type: dataset
+authors:
+  - family-names: "Stafford"
+    given-names: "Fred"
+    affiliation: "Public Power Review"
+date-released: "2026-11-12"
+license: CC-BY-4.0
+keywords:
+  - New York
+  - renewable energy
+  - NYSERDA
+  - NYISO
+  - Renewable Energy Standard

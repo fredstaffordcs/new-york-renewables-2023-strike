@@ -1,0 +1,18 @@
+num,project,round,status,mw,index_strike_latest,where_it_appears_in_this_workbook,award_strike_bid,realized_adjustment,implied_index_t
+1,Dog Corners Solar,RESRFP23-1,Under Dev,19.99,100.5,2023 Crosswalk,99,0.0151515152,260.7228282828
+2,Flat Hill Solar,RESRFP23-1,Under Dev,19.99,100.61,2023 Crosswalk,99,0.0162626263,261.1014356902
+3,Flat Stone Solar,RESRFP23-1,Under Dev,19.99,99,2023 Crosswalk,99,pending,
+4,Grassy Knoll Solar,RESRFP23-1,Under Dev,19.99,99,2023 Crosswalk,99,pending,
+5,Highview Solar,RESRFP23-1,Cancelled,19.99,99,2023 Crosswalk,99,n/a (cancelled),
+6,Hills Solar,RESRFP23-1,Under Dev,19.99,99,2023 Crosswalk,99,pending,
+7,Scipio Solar,RESRFP23-1,Under Dev,18,100.5,2023 Crosswalk,99,0.0151515152,260.7228282828
+8,Valley Solar,RESRFP23-1,Under Dev,19.99,100.78,2023 Crosswalk,99,0.017979798,261.686556229
+9,Watkins Road Solar,RESRFP23-1,Under Dev,19.99,99,2023 Crosswalk,99,pending,
+10,Flat Creek Solar,RESRFP24-1,Cancelled,300,(never pub.; cancelled),2024 Crosswalk,,,
+11,Niagara Solar,RESRFP22-1,Cancelled,19.99,83,(22-1; not tabbed),,,
+12,Oxbow Hill Solar,RESRFP22-1,Cancelled,140,(suppressed),2025 Proposals (re-bid),,,
+13,Riverside Solar,RESRFP22-1,Cancelled,100,72.5,(22-1; not tabbed),,,
+14,SunEast Hampton Corners Solar,RESRFP22-1,Cancelled,19.99,(suppressed),(22-1; not tabbed),,,
+15,SunEast Millers Grove Solar,RESRFP22-1,Cancelled,19.99,(suppressed),(22-1; not tabbed),,,
+16,SunEast Morris Solar,RESRFP22-1,Cancelled,19.99,(suppressed),(22-1; not tabbed),,,
+17,BR Benson Mines Solar,BRRFP23-1,Under Dev,12.15,159.48,(Build-Ready; not tabbed),,,

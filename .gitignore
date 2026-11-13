@@ -1,0 +1,12 @@
+# Raw source files are not redistributed
+data/raw/*
+!data/raw/README.md
+
+# Python / editor / OS noise
+__pycache__/
+*.pyc
+*.pkl
+.venv/
+.DS_Store
+~$*.xlsx
+.~lock.*
